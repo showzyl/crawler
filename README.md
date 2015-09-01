@@ -1,6 +1,8 @@
 # pachong
   爬虫分享
   
+npm install -g cnpm --registry=http://registry.npm.taobao.org
+npm install --registry=http://registry.npm.taobao.org
   
   不是讲代码，理解思想最重要
 
